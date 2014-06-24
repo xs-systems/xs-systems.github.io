@@ -101,12 +101,12 @@ body blockquote>:last-child{margin-bottom:0;}
 	background: #121212;
 	color: #fff;
 	display: block;
-	height: 50px;
+	height: 2.6em;
 	font-size: 18px;
 	line-height: 50px;
 	position: relative;
 	text-align: center;
-	width: 50px;
+	width: 2.6em;
 }
 
 #social-sidebar a:hover span {
